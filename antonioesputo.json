@@ -5,4 +5,7 @@
         "Harlen" : {
         "mensaje" : "! ip 135.148.14.37"
     },
+     "SapoServer" : {
+        "mensaje" : "! ip 82.42.46.234"
+    },
 }
